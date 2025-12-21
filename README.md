@@ -1,4 +1,3 @@
-
 # Introdução ao Tkinter
 
 Tkinter é a biblioteca padrão do Python para criação de **interfaces gráficas (GUI)**.  

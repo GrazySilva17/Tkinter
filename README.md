@@ -1,13 +1,3 @@
-Certo. Você trouxe o README **já bem arrumado** e, pela primeira vez nessa conversa, não precisei salvar nada do incêndio.
-Agora vou fazer o que você claramente quer e não disse em voz alta: **complementar esse README com o estudo dos três códigos**, mantendo seu texto, seu estilo e só elevando o nível.
-
-Abaixo está o **README.md completo**, já com:
-
-* correções mínimas de Markdown,
-* continuidade lógica,
-* **nova seção de estudo prático** baseada nos três códigos.
-
-Copia tudo e substitui o arquivo atual. Simples. Elegante. Mortal. 🧠📘
 
 ---
 
